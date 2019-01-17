@@ -1,0 +1,90 @@
+2018-11-26 20:30:01.146350invalid literal for int() with base 10: 'zv'
+2018-11-26 20:30:05.147654invalid literal for int() with base 10: 'af'
+2018-11-26 20:30:30.834516invalid literal for int() with base 10: 'c'
+2018-11-26 22:53:19.896402invalid literal for int() with base 10: 'a'
+2018-11-26 22:54:55.203163tuple index out of range
+2018-11-26 23:03:35.103318invalid literal for int() with base 10: 'eld '
+2018-11-26 23:03:53.189854tuple index out of range2018-11-26 23:03:53.189854'str' object is not callable2018-11-26 23:36:23.952462tuple index out of range
+2018-11-26 23:39:56.565322invalid literal for int() with base 10: 'Ke'
+2018-11-27 18:32:34.247716invalid literal for int() with base 10: '1k'
+2018-11-27 20:21:44.529152UNIQUE constraint failed: Yellowbook.First name
+2018-11-27 20:24:31.841320UNIQUE constraint failed: Yellowbook.First name
+2018-11-27 20:27:13.271360UNIQUE constraint failed: Yellowbook.First name
+2018-11-28 01:27:41.506335no such column: Birth date
+2018-11-28 01:36:21.506688None
+2018-11-28 01:37:13.896783None
+2018-11-28 01:47:33.706905no such column: Phone
+2018-11-28 01:49:02.228463no such column: Phone
+2018-11-28 01:52:14.277387no such column: Phone
+2018-11-28 14:24:55.619338None
+2018-11-28 14:39:21.110649None
+2018-11-28 14:39:35.365719None
+2018-11-28 14:47:12.396143None
+2018-11-28 15:42:51.286933None
+2018-11-28 16:23:11.098807name 'error_log' is not defined
+2018-11-28 17:12:25.579725name 'error_log' is not defined
+2018-11-28 18:03:47.431388invalid literal for int() with base 10: ' '
+2018-11-28 18:04:40.723168invalid literal for int() with base 10: 'Ff'
+2018-11-29 13:15:54.445986invalid literal for int() with base 10: ''
+2018-11-29 13:17:35.134993invalid literal for int() with base 10: ''
+2018-11-29 13:19:54.986407invalid literal for int() with base 10: 'ff'
+2018-11-29 13:20:05.819753invalid literal for int() with base 10: 'ff'
+2018-11-29 13:20:39.287946invalid literal for int() with base 10: 'f'
+2018-11-29 13:21:03.827471None
+2018-11-29 13:21:14.616058'int' object has no attribute 'isdigit'
+2018-11-29 16:31:25.277579Python int too large to convert to C long
+2018-11-29 16:32:28.666754Python int too large to convert to C long
+2018-11-29 16:35:55.425334Python int too large to convert to C long
+2018-11-29 16:39:26.450061None
+2018-11-29 16:49:15.428866name 'error_log' is not defined
+2018-11-29 17:00:15.359989name 'error_log' is not defined
+2018-11-29 17:02:17.198962name 'error_log' is not defined
+2018-11-29 17:03:32.135919None
+2018-11-29 17:10:54.802083
+2018-11-29 17:11:33.653893nnot operate on a closed database.
+2018-11-29 17:22:12.736766None
+2018-11-29 17:24:31.985270
+2018-11-29 17:25:01.542142
+2018-11-29 17:13:37.763680name 'error_log' is not defined
+2018-11-29 17:21:08.547125Ca
+2018-11-29 17:33:18.071133
+2018-11-29 17:40:30.550383
+2018-11-29 17:43:31.738564
+2018-11-29 17:44:58.518576None
+2018-11-29 17:48:16.177987Cannot operate on a closed database.
+2018-11-29 17:48:39.255672
+2018-11-29 17:50:17.241357
+2018-11-29 17:51:13.679181
+2018-11-29 17:55:28.552060
+2018-11-30 00:00:26.868190
+2018-11-30 00:01:19.9290860
+2018-11-30 11:38:01.493282
+2018-11-30 11:49:53.214039unrecognized token: "{"
+2018-12-01 02:00:50.016100day is out of range for month
+2018-12-01 11:42:30.388878near "[Middle name]": syntax error
+2018-12-01 11:46:31.828940near "[Middle name]": syntax error
+2018-12-01 11:48:17.444700
+2018-12-01 11:49:42.137726near "[First name]": syntax error
+2018-12-01 11:50:07.704957near "[Middle name]": syntax error
+2018-12-01 11:51:03.931377
+2018-12-01 11:52:09.650953
+2018-12-01 11:53:53.296635
+2018-12-01 11:56:00.653752
+2018-12-01 12:00:50.828473
+2018-12-01 12:03:14.478939
+2018-12-01 12:04:22.170754
+2018-12-01 12:08:45.032686
+2018-12-01 12:12:35.564667
+2018-12-01 12:18:07.4793210
+2018-12-01 12:44:46.593266string index out of range
+2018-12-01 12:46:40.804692string index out of range
+2018-12-01 12:50:21.380813string index out of range
+2018-12-01 13:00:32.823838string index out of range
+2018-12-01 13:09:16.364530string index out of range
+2018-12-01 13:10:23.009618string index out of range
+2018-12-01 13:11:22.719720string index out of range
+2018-12-01 13:13:03.232870string index out of range
+2018-12-01 13:14:46.030681string index out of range
+2018-12-01 13:17:58.9006770
+2018-12-01 13:26:09.546844empty range for randrange()
+2018-12-01 13:36:41.9528760
